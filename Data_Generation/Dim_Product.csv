@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,Price
+1,Xero Pro,Phone,3999
+2,Xero,Phone,2999
+3,Xero Air,Phone,1999
+4,Power Adaptor Phone,Phone,299
+5,XeroPad Pro,Tablet,3500
+6,XeroPad,Tablet,2499
+7,Power Adaptor Tablet,Tablet,259
+8,XeroWatch,Watch,1499
+9,XeroPod Pro,Earphone,1099
+10,XeroPod,Earphone,699
+11,XeroPower Pro,PowerBank,1199
+12,XeroPower,PowerBank,599
+13,Xerobook Pro Max,Laptop,5699
+14,Xerobook Pro,Laptop,4999
+15,Xerobook,Laptop,4099
+16,Xerobook Air,Laptop,3599
+17,Xerobook Neo,Laptop,2599
+18,Power Adaptor Laptop,Laptop,399
+19,Type-c Long,Cable,99
+20,Type-c Medium,Cable,79
+21,Type-c Short,Cable,49
+22,XeroMagic Mouse,Accessories,299
+23,XeroMagic Trackpad,Accessories,399
+24,XeroMagic Keyboard Pro,Accessories,599
+25,XeroMagic Keyboard,Accessories,399
